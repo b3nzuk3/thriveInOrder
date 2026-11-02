@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-29T00:16:32.773Z",
+  "title": "Design System: Thrive in Order",
+  "extensions": {
+    "colorMeta": {
+      "forest": {
+        "role": "primary",
+        "displayName": "Forest",
+        "tonalRamp": [
+          "oklch(15% 0.05098 162.30)",
+          "oklch(26.5% 0.05098 162.30)",
+          "oklch(38% 0.05098 162.30)",
+          "oklch(49.5% 0.05098 162.30)",
+          "oklch(61% 0.05098 162.30)",
+          "oklch(72.5% 0.05098 162.30)",
+          "oklch(84% 0.05098 162.30)",
+          "oklch(95% 0.05098 162.30)"
+        ]
+      },
+      "gold": {
+        "role": "secondary",
+        "displayName": "Sunlight Gold",
+        "tonalRamp": [
+          "oklch(15% 0.13582 77.71)",
+          "oklch(26.5% 0.13582 77.71)",
+          "oklch(38% 0.13582 77.71)",
+          "oklch(49.5% 0.13582 77.71)",
+          "oklch(61% 0.13582 77.71)",
+          "oklch(72.5% 0.13582 77.71)",
+          "oklch(84% 0.13582 77.71)",
+          "oklch(95% 0.13582 77.71)"
+        ]
+      },
+      "olive": {
+        "role": "secondary",
+        "displayName": "Gentle Olive",
+        "tonalRamp": [
+          "oklch(15% 0.05849 114.93)",
+          "oklch(26.5% 0.05849 114.93)",
+          "oklch(38% 0.05849 114.93)",
+          "oklch(49.5% 0.05849 114.93)",
+          "oklch(61% 0.05849 114.93)",
+          "oklch(72.5% 0.05849 114.93)",
+          "oklch(84% 0.05849 114.93)",
+          "oklch(95% 0.05849 114.93)"
+        ]
+      },
+      "air": {
+        "role": "neutral",
+        "displayName": "Air",
+        "tonalRamp": [
+          "oklch(15% 0.00528 197.07)",
+          "oklch(26.5% 0.00528 197.07)",
+          "oklch(38% 0.00528 197.07)",
+          "oklch(49.5% 0.00528 197.07)",
+          "oklch(61% 0.00528 197.07)",
+          "oklch(72.5% 0.00528 197.07)",
+          "oklch(84% 0.00528 197.07)",
+          "oklch(95% 0.00528 197.07)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Everyday Ink",
+        "tonalRamp": [
+          "oklch(15% 0.01151 145.26)",
+          "oklch(26.5% 0.01151 145.26)",
+          "oklch(38% 0.01151 145.26)",
+          "oklch(49.5% 0.01151 145.26)",
+          "oklch(61% 0.01151 145.26)",
+          "oklch(72.5% 0.01151 145.26)",
+          "oklch(84% 0.01151 145.26)",
+          "oklch(95% 0.01151 145.26)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Pale Linen",
+        "tonalRamp": [
+          "oklch(15% 0.01746 117.29)",
+          "oklch(26.5% 0.01746 117.29)",
+          "oklch(38% 0.01746 117.29)",
+          "oklch(49.5% 0.01746 117.29)",
+          "oklch(61% 0.01746 117.29)",
+          "oklch(72.5% 0.01746 117.29)",
+          "oklch(84% 0.01746 117.29)",
+          "oklch(95% 0.01746 117.29)"
+        ]
+      },
+      "muted-ink": {
+        "role": "neutral",
+        "displayName": "Muted Leaf Ink",
+        "tonalRamp": [
+          "oklch(15% 0.03389 148.06)",
+          "oklch(26.5% 0.03389 148.06)",
+          "oklch(38% 0.03389 148.06)",
+          "oklch(49.5% 0.03389 148.06)",
+          "oklch(61% 0.03389 148.06)",
+          "oklch(72.5% 0.03389 148.06)",
+          "oklch(84% 0.03389 148.06)",
+          "oklch(95% 0.03389 148.06)"
+        ]
+      },
+      "border": {
+        "role": "neutral",
+        "displayName": "Soft Divider",
+        "tonalRamp": [
+          "oklch(15% 0.04672 120.69)",
+          "oklch(26.5% 0.04672 120.69)",
+          "oklch(38% 0.04672 120.69)",
+          "oklch(49.5% 0.04672 120.69)",
+          "oklch(61% 0.04672 120.69)",
+          "oklch(72.5% 0.04672 120.69)",
+          "oklch(84% 0.04672 120.69)",
+          "oklch(95% 0.04672 120.69)"
+        ]
+      },
+      "input-border": {
+        "role": "neutral",
+        "displayName": "Field Edge",
+        "tonalRamp": [
+          "oklch(15% 0.04813 123.28)",
+          "oklch(26.5% 0.04813 123.28)",
+          "oklch(38% 0.04813 123.28)",
+          "oklch(49.5% 0.04813 123.28)",
+          "oklch(61% 0.04813 123.28)",
+          "oklch(72.5% 0.04813 123.28)",
+          "oklch(84% 0.04813 123.28)",
+          "oklch(95% 0.04813 123.28)"
+        ]
+      },
+      "focus-gold": {
+        "role": "secondary",
+        "displayName": "Focus Gold",
+        "tonalRamp": [
+          "oklch(15% 0.10071 78.89)",
+          "oklch(26.5% 0.10071 78.89)",
+          "oklch(38% 0.10071 78.89)",
+          "oklch(49.5% 0.10071 78.89)",
+          "oklch(61% 0.10071 78.89)",
+          "oklch(72.5% 0.10071 78.89)",
+          "oklch(84% 0.10071 78.89)",
+          "oklch(95% 0.10071 78.89)"
+        ]
+      },
+      "forest-hover": {
+        "role": "primary",
+        "displayName": "Forest Hover",
+        "tonalRamp": [
+          "oklch(15% 0.06370 159.46)",
+          "oklch(26.5% 0.06370 159.46)",
+          "oklch(38% 0.06370 159.46)",
+          "oklch(49.5% 0.06370 159.46)",
+          "oklch(61% 0.06370 159.46)",
+          "oklch(72.5% 0.06370 159.46)",
+          "oklch(84% 0.06370 159.46)",
+          "oklch(95% 0.06370 159.46)"
+        ]
+      },
+      "olive-hover": {
+        "role": "secondary",
+        "displayName": "Olive Hover",
+        "tonalRamp": [
+          "oklch(15% 0.08111 116.46)",
+          "oklch(26.5% 0.08111 116.46)",
+          "oklch(38% 0.08111 116.46)",
+          "oklch(49.5% 0.08111 116.46)",
+          "oklch(61% 0.08111 116.46)",
+          "oklch(72.5% 0.08111 116.46)",
+          "oklch(84% 0.08111 116.46)",
+          "oklch(95% 0.08111 116.46)"
+        ]
+      },
+      "accordion-hover": {
+        "role": "primary",
+        "displayName": "Accordion Hover",
+        "tonalRamp": [
+          "oklch(15% 0.06704 152.52)",
+          "oklch(26.5% 0.06704 152.52)",
+          "oklch(38% 0.06704 152.52)",
+          "oklch(49.5% 0.06704 152.52)",
+          "oklch(61% 0.06704 152.52)",
+          "oklch(72.5% 0.06704 152.52)",
+          "oklch(84% 0.06704 152.52)",
+          "oklch(95% 0.06704 152.52)"
+        ]
+      },
+      "arrow-gold": {
+        "role": "secondary",
+        "displayName": "Arrow Gold",
+        "tonalRamp": [
+          "oklch(15% 0.11960 75.72)",
+          "oklch(26.5% 0.11960 75.72)",
+          "oklch(38% 0.11960 75.72)",
+          "oklch(49.5% 0.11960 75.72)",
+          "oklch(61% 0.11960 75.72)",
+          "oklch(72.5% 0.11960 75.72)",
+          "oklch(84% 0.11960 75.72)",
+          "oklch(95% 0.11960 75.72)"
+        ]
+      },
+      "field-hover": {
+        "role": "neutral",
+        "displayName": "Field Hover",
+        "tonalRamp": [
+          "oklch(15% 0.05967 130.55)",
+          "oklch(26.5% 0.05967 130.55)",
+          "oklch(38% 0.05967 130.55)",
+          "oklch(49.5% 0.05967 130.55)",
+          "oklch(61% 0.05967 130.55)",
+          "oklch(72.5% 0.05967 130.55)",
+          "oklch(84% 0.05967 130.55)",
+          "oklch(95% 0.05967 130.55)"
+        ]
+      },
+      "placeholder": {
+        "role": "neutral",
+        "displayName": "Placeholder Leaf",
+        "tonalRamp": [
+          "oklch(15% 0.03500 140.69)",
+          "oklch(26.5% 0.03500 140.69)",
+          "oklch(38% 0.03500 140.69)",
+          "oklch(49.5% 0.03500 140.69)",
+          "oklch(61% 0.03500 140.69)",
+          "oklch(72.5% 0.03500 140.69)",
+          "oklch(84% 0.03500 140.69)",
+          "oklch(95% 0.03500 140.69)"
+        ]
+      },
+      "error": {
+        "role": "neutral",
+        "displayName": "Warm Rust Error",
+        "tonalRamp": [
+          "oklch(15% 0.11409 35.21)",
+          "oklch(26.5% 0.11409 35.21)",
+          "oklch(38% 0.11409 35.21)",
+          "oklch(49.5% 0.11409 35.21)",
+          "oklch(61% 0.11409 35.21)",
+          "oklch(72.5% 0.11409 35.21)",
+          "oklch(84% 0.11409 35.21)",
+          "oklch(95% 0.11409 35.21)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Home hero only; native regular weight with font synthesis disabled and natural proportions."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Supporting section headings."
+      },
+      "page-title": {
+        "displayName": "Page Title",
+        "purpose": "Supporting page introductions; Contact uses a compact local size."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Serif process-card titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Base reading and interaction family."
+      },
+      "body-copy": {
+        "displayName": "Body Copy",
+        "purpose": "Longer descriptive section copy, usually up to 65ch."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Form labels."
+      },
+      "wordmark": {
+        "displayName": "Wordmark",
+        "purpose": "Lowercase header and footer identity."
+      }
+    },
+    "shadows": [
+      {
+        "name": "mobile-menu-separation",
+        "value": "0 16px 24px rgb(23 59 43 / .08)",
+        "purpose": "Separates expanded mobile navigation; cards and fields are flat."
+      }
+    ],
+    "motion": [
+      {
+        "name": "reveal-easing",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Home photo clip reveal and accordion opening."
+      },
+      {
+        "name": "hero-reveal",
+        "value": "1.1s",
+        "purpose": "One-time clip reveal; disabled under reduced motion."
+      },
+      {
+        "name": "accordion-open",
+        "value": ".3s",
+        "purpose": "Open to measured Radix content height."
+      },
+      {
+        "name": "accordion-close",
+        "value": ".2s ease",
+        "purpose": "Close to zero height."
+      },
+      {
+        "name": "filter-change",
+        "value": ".25s",
+        "purpose": "Service filter opacity/layout change; duration zero and layout disabled under reduced motion."
+      },
+      {
+        "name": "form-exit",
+        "value": ".15s",
+        "purpose": "Fade the enquiry form before revealing the draft; duration zero under reduced motion."
+      },
+      {
+        "name": "link-arrow",
+        "value": "transform .25s ease",
+        "purpose": "Arrow moves 4px on text-link hover."
+      },
+      {
+        "name": "sun-playback",
+        "value": "4s; once; 30fps",
+        "purpose": "Local 120-frame Lottie, triggered within a 100px viewport margin; static sun for reduced motion."
+      },
+      {
+        "name": "reduced-motion-css",
+        "value": ".01ms",
+        "purpose": "CSS transitions and animations collapse; smooth scrolling disabled."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1200px"
+      },
+      {
+        "name": "contact-intermediate",
+        "value": "1000px"
+      },
+      {
+        "name": "navigation-and-layout-stack",
+        "value": "900px"
+      },
+      {
+        "name": "small-screen-stack",
+        "value": "600px"
+      },
+      {
+        "name": "narrow-phone",
+        "value": "480px"
+      },
+      {
+        "name": "wide-hero-cap",
+        "value": "1600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The main consultation and enquiry action.",
+      "html": "<button class=\"ds-button ds-primary\">Book a consultation <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:12px;height:52px;padding:0 28px;border:0;border-radius:9999px;white-space:nowrap;font-family:var(--font-sans,Manrope),sans-serif;font-size:14px;font-weight:600;cursor:pointer;transition:background-color .15s,color .15s}.ds-button:focus-visible{outline:2px solid var(--ring,#8A6317);outline-offset:4px}.ds-button:disabled{pointer-events:none;opacity:.5}@media(prefers-reduced-motion:reduce){.ds-button{transition-duration:.01ms}}.ds-primary{background:var(--primary,#173B2B);color:var(--primary-foreground,#FAFFFF)}.ds-primary:hover{background:#28553E}"
+    },
+    {
+      "name": "Outline Button",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "A supporting action, including copying the prepared enquiry.",
+      "html": "<button class=\"ds-button ds-outline\">Copy enquiry</button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:12px;height:52px;padding:0 28px;border:0;border-radius:9999px;white-space:nowrap;font-family:var(--font-sans,Manrope),sans-serif;font-size:14px;font-weight:600;cursor:pointer;transition:background-color .15s,color .15s}.ds-button:focus-visible{outline:2px solid var(--ring,#8A6317);outline-offset:4px}.ds-button:disabled{pointer-events:none;opacity:.5}@media(prefers-reduced-motion:reduce){.ds-button{transition-duration:.01ms}}.ds-outline{border:1px solid var(--primary,#173B2B);background:transparent;color:var(--primary,#173B2B)}.ds-outline:hover{background:var(--secondary,#DDE4B8)}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "The gentle olive action used on the forest closing field.",
+      "html": "<button class=\"ds-button ds-secondary\">Book a consultation <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:12px;height:52px;padding:0 28px;border:0;border-radius:9999px;white-space:nowrap;font-family:var(--font-sans,Manrope),sans-serif;font-size:14px;font-weight:600;cursor:pointer;transition:background-color .15s,color .15s}.ds-button:focus-visible{outline:2px solid var(--ring,#8A6317);outline-offset:4px}.ds-button:disabled{pointer-events:none;opacity:.5}@media(prefers-reduced-motion:reduce){.ds-button{transition-duration:.01ms}}.ds-secondary{background:var(--secondary,#DDE4B8);color:var(--secondary-foreground,#173B2B)}.ds-secondary:hover{background:#CCD79A}"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "An available library variant for a quiet tertiary action.",
+      "html": "<button class=\"ds-button ds-ghost\">Quiet action</button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:12px;height:52px;padding:0 28px;border:0;border-radius:9999px;white-space:nowrap;font-family:var(--font-sans,Manrope),sans-serif;font-size:14px;font-weight:600;cursor:pointer;transition:background-color .15s,color .15s}.ds-button:focus-visible{outline:2px solid var(--ring,#8A6317);outline-offset:4px}.ds-button:disabled{pointer-events:none;opacity:.5}@media(prefers-reduced-motion:reduce){.ds-button{transition-duration:.01ms}}.ds-ghost{background:transparent;color:var(--primary,#173B2B)}.ds-ghost:hover{background:var(--muted,#F0F3E6)}"
+    },
+    {
+      "name": "Enquiry Fields",
+      "kind": "input",
+      "refersTo": "form-field",
+      "description": "Input and textarea with labels, visible focus, and an invalid-state example.",
+      "html": "<div class=\"ds-fields\"><label class=\"ds-label\" for=\"ds-name\">Your name <span>*</span></label><input class=\"ds-field\" id=\"ds-name\" autocomplete=\"name\" placeholder=\"Your name\"><label class=\"ds-label ds-spaced\" for=\"ds-message\">A little about your space <span>*</span></label><textarea class=\"ds-field ds-textarea\" id=\"ds-message\" placeholder=\"What would you love to feel easier at home?\" aria-invalid=\"true\" aria-describedby=\"ds-error\"></textarea><p class=\"ds-error\" id=\"ds-error\">Tell us a little more about your space.</p></div>",
+      "css": ".ds-fields{max-width:440px;font-family:var(--font-sans,Manrope),sans-serif}.ds-label{display:block;margin-bottom:10px;color:var(--primary,#173B2B);font-size:13px;font-weight:600}.ds-label span{color:var(--muted-foreground,#4B5D4D)}.ds-spaced{margin-top:22px}.ds-field{width:100%;padding:14px 15px;border:1px solid var(--input,#BDC9A7);border-radius:8px;background:var(--background,#FAFFFF);color:var(--ink,#252A25);font-family:var(--font-sans,Manrope),sans-serif;font-size:15px;line-height:1.6;box-shadow:none;transition:border-color .2s}.ds-field:hover{border-color:#7C906A}.ds-field:focus-visible{border-color:var(--primary,#173B2B);outline:2px solid var(--primary,#173B2B);outline-offset:2px}.ds-field::placeholder{color:#60705D;opacity:1}.ds-field[aria-invalid=true]{border-color:#8C3C28}.ds-textarea{min-height:144px;resize:vertical}.ds-error{margin:8px 0 0;font-size:12px;line-height:1.6;color:#8C3C28}@media(max-width:600px){.ds-field{font-size:16px}}@media(prefers-reduced-motion:reduce){.ds-field{transition-duration:.01ms}}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "description": "Open desktop links with a gold hover/current underline and a pill CTA.",
+      "html": "<nav class=\"ds-navigation\" aria-label=\"Example navigation\"><a class=\"ds-nav-link\" href=\"#services\" aria-current=\"page\">Services</a><a class=\"ds-nav-link\" href=\"#approach\">Our approach</a><a class=\"ds-nav-link\" href=\"#faqs\">FAQs</a><a class=\"ds-button ds-nav-action\" href=\"#contact\">Book a consultation</a></nav>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:12px;height:52px;padding:0 28px;border:0;border-radius:9999px;white-space:nowrap;font-family:var(--font-sans,Manrope),sans-serif;font-size:14px;font-weight:600;cursor:pointer;transition:background-color .15s,color .15s}.ds-button:focus-visible{outline:2px solid var(--ring,#8A6317);outline-offset:4px}.ds-button:disabled{pointer-events:none;opacity:.5}@media(prefers-reduced-motion:reduce){.ds-button{transition-duration:.01ms}}.ds-navigation{display:flex;flex-wrap:wrap;align-items:center;gap:32px;color:var(--foreground,#173B2B);font-family:var(--font-sans,Manrope),sans-serif;font-size:18px}.ds-nav-link{position:relative;display:inline-block;padding:10px 0;color:inherit;text-decoration:none}.ds-nav-link::after{content:\"\";position:absolute;left:0;bottom:4px;width:100%;height:1px;background:var(--gold,#C58B17);transform:scaleX(0);transform-origin:left;transition:transform .25s ease}.ds-nav-link:hover::after,.ds-nav-link[aria-current=page]::after{transform:scaleX(1)}.ds-nav-link:focus-visible{outline:2px solid var(--ring,#8A6317);outline-offset:5px}.ds-nav-action{height:56px;width:238px;padding:0;font-size:18px;font-weight:500;background:var(--primary,#173B2B);color:var(--primary-foreground,#FAFFFF);text-decoration:none}.ds-nav-action:hover{background:#28553E}@media(prefers-reduced-motion:reduce){.ds-nav-link::after{transition-duration:.01ms}}"
+    },
+    {
+      "name": "Service Filter",
+      "kind": "chip",
+      "refersTo": "service-filter",
+      "description": "Wrapping chips with selected and hover states; this preview shows static example states.",
+      "html": "<div class=\"ds-filters\" role=\"group\" aria-label=\"Example service categories\"><button class=\"ds-filter\" aria-pressed=\"true\">All services</button><button class=\"ds-filter\" aria-pressed=\"false\">Everyday living</button><button class=\"ds-filter\" aria-pressed=\"false\">Life changes</button></div>",
+      "css": ".ds-filters{display:inline-flex;flex-wrap:wrap;gap:9px;font-family:var(--font-sans,Manrope),sans-serif}.ds-filter{cursor:pointer;padding:11px 21px;border:1px solid #BBC8A3;border-radius:50px;background:transparent;color:var(--foreground,#173B2B);font-family:var(--font-sans,Manrope),sans-serif;font-size:14px;transition:background .25s,color .25s}.ds-filter:hover{background:var(--muted,#F0F3E6)}.ds-filter[aria-pressed=true]{background:var(--primary,#173B2B);border-color:var(--primary,#173B2B);color:var(--background,#FAFFFF)}.ds-filter:focus-visible{outline:2px solid var(--ring,#8A6317);outline-offset:5px}@media(max-width:600px){.ds-filters{gap:7px}.ds-filter{padding:10px 14px;font-size:12px}}@media(prefers-reduced-motion:reduce){.ds-filter{transition-duration:.01ms}}"
+    },
+    {
+      "name": "Practical Panel",
+      "kind": "card",
+      "refersTo": "practical-panel",
+      "description": "Flat grouping for concrete service support, with inline SVG checks.",
+      "html": "<section class=\"ds-practical\"><h3>Support can include</h3><ul><li><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m20 6-11 11-5-5\"/></svg><span>Storage that makes everyday essentials easy to find.</span></li><li><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m20 6-11 11-5-5\"/></svg><span>Simple routines that fit the household.</span></li></ul></section>",
+      "css": ".ds-practical{max-width:540px;background:var(--muted,#F0F3E6);padding:26px;border-radius:16px;color:var(--foreground,#173B2B);font-family:var(--font-sans,Manrope),sans-serif}.ds-practical h3{margin:0 0 16px;font-family:var(--font-sans,Manrope),sans-serif;font-size:15px;font-weight:600}.ds-practical ul{display:flex;flex-direction:column;gap:13px;list-style:none;padding:0;margin:0}.ds-practical li{display:flex;align-items:flex-start;gap:11px;font-size:14px;line-height:1.65;color:var(--muted-foreground,#4B5D4D)}.ds-practical svg{flex-shrink:0;margin-top:3px;color:var(--primary,#173B2B)}@media(max-width:600px){.ds-practical{padding:22px}}"
+    },
+    {
+      "name": "Expandable Service Summary",
+      "kind": "custom",
+      "refersTo": "accordion-row",
+      "description": "The divider-list visual, using native details for a framework-free expandable preview.",
+      "html": "<details class=\"ds-accordion\"><summary>Home organization <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></summary><div class=\"ds-answer\"><p>Practical systems that work with your home and everyday routines.</p><a class=\"ds-enquire\" href=\"#contact\">Ask about this service <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></a></div></details>",
+      "css": ".ds-accordion{width:100%;max-width:640px;border-bottom:1px solid var(--border,#D3DDBB);color:var(--foreground,#173B2B);font-family:var(--font-sans,Manrope),sans-serif}.ds-accordion summary{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:22px 0;list-style:none;cursor:pointer;font-size:clamp(17px,1.47vw,22px);font-weight:500;line-height:1.4;letter-spacing:-.025em;transition:color .15s}.ds-accordion summary::-webkit-details-marker{display:none}.ds-accordion summary:hover{color:#477153}.ds-accordion summary:focus-visible,.ds-enquire:focus-visible{outline:2px solid var(--ring,#8A6317);outline-offset:5px}.ds-accordion summary svg{width:20px;height:20px;flex-shrink:0;color:#A67211;transition:transform .3s}.ds-accordion[open] summary svg{transform:rotate(90deg)}.ds-answer{padding-bottom:24px}.ds-answer p{max-width:60ch;margin:0;color:var(--muted-foreground,#4B5D4D);font-size:16px;line-height:1.8}.ds-enquire{display:inline-flex;gap:13px;align-items:center;margin-top:14px;color:inherit;font-size:15px;line-height:1.5;text-decoration:none}.ds-enquire svg{transition:transform .25s ease}.ds-enquire:hover{text-decoration:underline;text-decoration-color:var(--gold,#C58B17)}.ds-enquire:hover svg{transform:translateX(4px)}@media(max-width:480px){.ds-accordion summary{font-size:16px;padding:20px 0;gap:18px}}@media(prefers-reduced-motion:reduce){.ds-accordion summary,.ds-accordion summary svg,.ds-enquire svg{transition-duration:.01ms}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Home Care Folio",
+    "overview": "The Home Care Folio makes practical home support feel soft, personal, and approachable. Forest ink, gentle olive fields, rounded photographs, and friendly everyday language give the interface the ease of a thoughtfully arranged home. The durable brand commitment is “Organized Spaces, Brighter Days.”\n\nThe system is spacious and mostly flat. Editorial serif headings establish warmth, Manrope keeps service choices and forms direct, and natural household imagery provides material richness. Open sections carry the story; softly filled cards group practical information. Motion reveals content or explains a change, with a quiet static alternative for reduced motion.",
+    "keyCharacteristics": [
+      "Soft, personal color and rounded details.",
+      "Warm household photography paired with clear, open service choices.",
+      "Editorial serif hierarchy with readable sans-serif copy and controls.",
+      "Flat tonal surfaces, restrained gold cues, and purposeful motion."
+    ],
+    "rules": [
+      {
+        "name": "The Five-Color Anchor Rule",
+        "body": "Keep the five confirmed brand colors as the visual anchor. Derived greens, golds, and the error color serve text, borders, focus, or interaction states rather than forming a competing palette.",
+        "section": "colors"
+      },
+      {
+        "name": "The Three-Role Type Rule",
+        "body": "Use DM Serif Display for the home hero, Cantata One for the wordmark and supporting display headings, and Manrope for reading and interaction. Preserve the hero’s native weight and natural proportions.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Surface Rule",
+        "body": "Use color, spacing, and fine dividers to separate content. Cards and fields carry no shadow; the open mobile menu alone has a diffuse separating shadow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use the confirmed palette and assign forest to primary actions, olive to gentle emphasis, and air to the main ground.",
+      "Do keep service text and forms in Manrope and use the three established serif roles deliberately.",
+      "Do use rounded photographs and local imagery that feels warm, practical, and lived in.",
+      "Do keep service summaries expandable, service detail sections open, and practical information grouped in flat filled panels.",
+      "Do preserve visible keyboard focus, associated field errors, comfortable mobile controls, and reduced-motion alternatives.",
+      "Do keep the existing generated-image provenance and self-hosted font license files with their assets."
+    ],
+    "donts": [
+      "Don’t introduce ornamental UI clutter or hard card shadows into this soft, personal system.",
+      "Don’t stretch or compress the hero letterforms to fit a reference.",
+      "Don’t use the bright gold brand accent as small body text; the implementation uses darker gold for arrows and focus.",
+      "Don’t present the generated household images as completed client work.",
+      "Don’t turn the homepage composition into a required layout for every page."
+    ]
+  }
+}
